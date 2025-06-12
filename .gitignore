@@ -1,0 +1,19 @@
+# Git忽略文件配置
+
+# 忽略备份文件
+main.user.bak.js
+
+# 忽略日志文件
+*.log
+
+# 忽略IDE和编辑器文件
+.idea/
+.vscode/
+*.sublime-*
+
+# 忽略操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 忽略npm包
+node_modules/ 
